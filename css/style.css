@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    background: linear-gradient(90deg, #000000 70%, #28a745);
+}
+
+.navbar{
+    border-bottom: 1px solid #28a745;
+}
+
+video{
+    opacity:1;
+    padding-top: 5%;
+}
+
+.bg-dark{
+    background-color: black !important;
+}
+
+img{
+    position:absolute; 
+    position:relative; 
+    /* left:0;  */
+    right: 0;
+    height: 10%;
+    height: 100px;
+    width:auto;
+}
+
+p{
+    font-size: 1rem;
+}
+
+footer{
+    position: relative;
+    position: absolute;
+    bottom:0px;
+    width: 100%;
+    border-top: 1px solid #28a745;
+
+}
